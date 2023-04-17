@@ -1,0 +1,13 @@
+cat.copernic.copernicjobs
+cat.copernic.copernicjobs.administrador.controladores
+cat.copernic.copernicjobs.administrador.servicios
+cat.copernic.copernicjobs.alumno.controladores
+cat.copernic.copernicjobs.alumno.servicios
+cat.copernic.copernicjobs.dao
+cat.copernic.copernicjobs.empresa
+cat.copernic.copernicjobs.empresa.servicios
+cat.copernic.copernicjobs.errores
+cat.copernic.copernicjobs.general.controladores
+cat.copernic.copernicjobs.general.servicios
+cat.copernic.copernicjobs.general.utils
+cat.copernic.copernicjobs.model
